@@ -85,4 +85,4 @@ Type a stock name and quantity, repeat for each holding, then type `done`. It pr
 
 ## Author
 
-[@Tuhintech1278](https://github.com/Tuhintech1278)
+[@Pragyaraj12](https://github.com/Pragyaraj12)
